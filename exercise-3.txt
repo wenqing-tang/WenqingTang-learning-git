@@ -1,1 +1,3 @@
-This is the third txt file created by bear on Monday.
+This is the third txt file created by bear in the evening.
+I'd like to make some change and use the diff command to look at the function.
+
