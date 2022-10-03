@@ -1,3 +1,4 @@
 This is the third txt file created by bear in the evening.
 I'd like to make some change and use the diff command to look at the function.
+I'm not sure if this process will help me learn more quickly.
 
