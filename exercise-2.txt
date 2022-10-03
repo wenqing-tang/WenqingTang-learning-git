@@ -1,1 +1,2 @@
-This is the second exercise that bear create
+This is the second exercise that bear create.
+Practicing make perfect.
