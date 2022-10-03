@@ -2,3 +2,5 @@ I'd like to make some change and use the diff command to look at the function.
 I'm not sure if this process will help me learn more quickly.
 But I reckon that keep practicing is a good way.
 The experience you own is a significant part of yourself. 
+
+Something we are going to commit
